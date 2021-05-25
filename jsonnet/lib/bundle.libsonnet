@@ -19,6 +19,7 @@
     '^org\\.gnu\\.emacs$',
     // JetBrains IntelliJ
     '^com\\.jetbrains\\.intellij\\.ce$',
+    '^com\\.jetbrains\\.intellij$',
     // JetBrains PhpStorm
     '^com\\.jetbrains\\.PhpStorm$',
     // JetBrains PyCharm
@@ -26,7 +27,7 @@
     // JetBrains Rider
     '^com\\.jetbrains\\.rider$',
     // Microsoft VSCode
-    '^com\\.microsoft\\.VSCode$',
+    //'^com\\.microsoft\\.VSCode$',
     // Sublime Text
     '^com\\.sublimetext\\.3$',
   ],
